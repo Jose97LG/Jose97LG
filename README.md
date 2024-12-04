@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align=center> 💻 José Antonio López Gómez 🖥 </h1>
 
-<!--
-**Jose97LG/Jose97LG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mí
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Cursando el grado de Sistemas Microinformáticos y Redes.
+- 🧠 Compagino mis estudios con cursos de programación enfocado al Front-end aunque ultimamente tambien me estoy adentrando en el mundo del Back-end con base de datos.
+- 🌱 Tengo un buen desempeño academico el cual me encantaria acompañarlo de experiencia laboral.
+- 💼 Actualmente estoy en busqueda de oportunidades laborales y desarrollo profesional.
+- 📫 Puedes contactarme a traves de mi pagina de LinkedIn o por correo electronico.
+
+
+
