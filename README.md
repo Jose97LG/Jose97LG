@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td align="center">Bases de datos</td>
-    <td> </td>
+    <td></td>
   </tr>
   <tr>
     <td align="center"><img title="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></td>
@@ -49,10 +49,10 @@
   </tr>
   <tr>
    <td align="center">Otros</td>
-   <td> </td>
+   <td></td>
   </tr>
   <tr>
   <td align="center"><img title="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></td>
-  <td> </td>
+  <td></td>
  </tr>
 </table>
