@@ -43,7 +43,7 @@
     <td></td>
   </tr>
   <tr>
-    <td align="center"><img title="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></td>
+    <td align="center"><img title="mysql" src="<i class="devicon-mysql-plain-wordmark"></i></td>
     <td>- 🟩🟧⬜ Intermedio</td>
   </tr>
   <tr>
