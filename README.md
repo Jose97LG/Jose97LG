@@ -43,7 +43,8 @@
     <td></td>
   </tr>
   <tr>
-    <td align="center"><img title="mysql" src="<i class="devicon-mysql-plain-wordmark"></i></td>
+    <td align="center"><img title="mysql" src=<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+</td>
     <td>- 🟩🟧⬜ Intermedio</td>
   </tr>
   <tr>
