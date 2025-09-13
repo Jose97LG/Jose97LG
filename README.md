@@ -27,7 +27,7 @@
     <td>- 🟩🟧⬜ Intermedio</td>
  </tr>
   <tr>
-    <td align="center"><img title="css" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></td>
+    <td align="center"><img size ="20px" title="css" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"></td>
     <td>- 🟩🟧⬜ Intermedio</td>
   </tr>
   <tr>
