@@ -55,4 +55,8 @@
   <td align="center"><img title="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></td>
   <td></td>
  </tr>
+    <tr>
+  <td align="center"><img title="PyCharm" src="[https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white](https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg)"></td>
+  <td></td>
+ </tr>
 </table>
