@@ -2,10 +2,9 @@
 
 ## 👦 Sobre Mí:
 
-- 🎓 Cursando el grado de Sistemas Microinformáticos y Redes.
-- 🧠 Compagino mis estudios con cursos de programación enfocado al Front-end aunque ultimamente tambien me estoy adentrando en el mundo del Back-end con base de datos entre otros.
-- 🌱 Tengo un buen desempeño académico el cual me encantaría acompañarlo de experiencia laboral.
-- 💼 Actualmente estoy en busqueda de oportunidades laborales y desarrollo profesional.
+- 🎓 Tecnico en Sistemas Informáticos y Redes.
+- 🧠 Continuo ampliando mis conocimientos enfocandome en la bases de datos, Python y Ciberseguridad.
+- 💼 Actualmente me encuentro como soporte tecnico en una empresa informático.
 
 ## 📬 Contáctame: 
 <div align="center">
